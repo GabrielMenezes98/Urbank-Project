@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\bin\Debug\net6.0\UrBank.exe
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\bin\Debug\net6.0\UrBank.deps.json
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\bin\Debug\net6.0\UrBank.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\bin\Debug\net6.0\UrBank.dll
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\bin\Debug\net6.0\UrBank.pdb
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.dll
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\refint\UrBank.dll
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.pdb
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\UrBank.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\UrBank\obj\Debug\net6.0\ref\UrBank.dll
